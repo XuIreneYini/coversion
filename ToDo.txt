@@ -1,2 +1,4 @@
 Conversions functions needed:
-Dollars to Cents
+-Dollars to Cents
+-Feet to inches
+- hhhh
